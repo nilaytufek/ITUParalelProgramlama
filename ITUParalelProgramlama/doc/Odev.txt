@@ -1,0 +1,26 @@
+Bir banka subesindeki çalisma düzeni gerçeklenecektir. Subede n adet (örnegin, n=4)
+banka görevlisi hizmet vermektedir. Müsteriler subeye girdikten sonra, sira numarasi almak üzere,
+bir anda bir müsteriye hizmet verebilen bir cihaz kullanirlar. Cihaz iki türlü numara vermektedir:
+banka karti ile istekte bulunan müsterilere hizmet alma önceligi yüksek olan ayricalikli bir sira
+numarasi; bu tür bir kart kullanmayanlara ise normal bir sira numarasi. Müsteri, sira numarasini
+aldiktan sonra bir panelde numarasi görüntülenene kadar bekler. Subede m adet (örnegin, m=10)
+bekleme koltugu bulunmaktadir. Bir anda bekleyen müsteri sayisi en fazla m+5 (m adet oturan +
+5 adet ayakta) olabilir. Subenin girisinde bulunan güvenlik görevlisi, bekleyen müsteri sayisi
+m+5’e ulasinca, yeni müsterilerin subeye girislerini engeller. Bu sekilde engellenen müsteriler
+disarida bekleyebilirler veya daha sonra gelmek üzere bankayi terkederler. Bir banka görevlisi
+hizmete hazir oldugu zaman bekleyen müsterilerden sirasi geleni seçmek üzere bir butona basar.
+Numarasi seçilip panelde görüntülenen müsteri islemlerini yaptirir ve bankayi terkeder. Her
+görevli kendine ait bir butona sahiptir. Birden fazla görevli ayni anda butonuna basmasi halinde
+sadece birinin islemi yapilmali, digerleri bekletilmelidir. Sira numarasi seçimi normal ve
+ayricalikli müsteriler arasinda yapilir ve asagida verilen kurallar uygulanir:
+1. Hiç ayricalikli müsteri yok ise, siradaki müsteriyi seç.
+2. Bir ayricalikli müsteriye, kendinden once gelen 2 normal müsteriye göre öncelik tani.
+3. Daha önce gelmis ve beklemekte olan normal müsteri var ise, ard arda ikiden fazla
+ayricalikli müsteriye hizmet verme.
+Müsteri ve banka görevlilerinin ayri ayri prosesler olarak temsil edildigi, yukarida belirtilen
+çalisma düzenini gerçekleyen bir paralel program gelistirin. Uygulama ortaminin seçimi ögrenci
+tarafindan yapilacaktir. Uygulama ortami olarak paralel çalismaya destek verecek bir çalisma
+ortami (Java-thread, Unix-prosesler, MPI, vs.) seçilebilir. Programin çalisma sürecini ekrana
+anlasilir sekilde yansitan bir çikis üretmeniz beklenmektedir. Çalisma bir rapor esliginde
+sunulacaktir. Raporda, karsilasilan problemler ve çözüm algoritmalari ayrintili olarak
+anlatilmalidir.

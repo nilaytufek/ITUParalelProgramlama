@@ -1,0 +1,11 @@
+c:\users\ozkaya\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\netcoreapp2.0\BankaUygulamasi.csproj.CoreCompileInputs.cache
+c:\users\ozkaya\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\netcoreapp2.0\BankaUygulamasi.AssemblyInfoInputs.cache
+c:\users\ozkaya\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\netcoreapp2.0\BankaUygulamasi.AssemblyInfo.cs
+c:\users\ozkaya\source\repos\BankaUygulamasi\BankaUygulamasi\bin\Debug\netcoreapp2.0\BankaUygulamasi.deps.json
+c:\users\ozkaya\source\repos\BankaUygulamasi\BankaUygulamasi\bin\Debug\netcoreapp2.0\BankaUygulamasi.runtimeconfig.json
+c:\users\ozkaya\source\repos\BankaUygulamasi\BankaUygulamasi\bin\Debug\netcoreapp2.0\BankaUygulamasi.runtimeconfig.dev.json
+c:\users\ozkaya\source\repos\BankaUygulamasi\BankaUygulamasi\bin\Debug\netcoreapp2.0\BankaUygulamasi.dll
+c:\users\ozkaya\source\repos\BankaUygulamasi\BankaUygulamasi\bin\Debug\netcoreapp2.0\BankaUygulamasi.pdb
+c:\users\ozkaya\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\netcoreapp2.0\BankaUygulamasi.dll
+c:\users\ozkaya\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\netcoreapp2.0\BankaUygulamasi.pdb
+C:\Users\ozkaya\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\netcoreapp2.0\BankaUygulamasi.csprojResolveAssemblyReference.cache
