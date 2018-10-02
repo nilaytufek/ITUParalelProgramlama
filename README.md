@@ -1,4 +1,5 @@
-# ITUParalelProgramlamaITU BLG 503 Paralel programlama dersinin projesidir. C# dilinde yazılmıştır. Ayrıntıları raporda ve kodda görebilirsiniz.
+# ITUParalelProgramlamaITU 
+BLG 503 Paralel programlama dersinin projesidir. C# dilinde yazılmıştır. Ayrıntıları raporda ve kodda görebilirsiniz.
 
 Proje Tanımı: 
 Bir banka şubesindeki çalışma düzeni gerçeklenecektir. Şubede n adet (örneğin, n=4)
